@@ -1,2 +1,8 @@
 # SOLIDPrinciples
-S - Single-responsiblity principle O - Open-closed principle L - Liskov substitution principle I - Interface segregation principle D - Dependency Inversion Principle
+S - Single-responsiblity principle 
+O - Open-closed principle 
+L - Liskov substitution principle 
+I - Interface segregation principle 
+D - Dependency Inversion Principle
+
+A project with simple examples that represent each of these principles
